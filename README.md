@@ -4,3 +4,4 @@ Basic JavaScript skeleton that can be used for local development and testing of 
 ### TODO
 
 - Add some sort of live reload server?
+- Add docs
